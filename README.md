@@ -9,13 +9,13 @@
   </p>
 </div>
 
-I'm a software developer at CEBI, building tax and public-sector systems with C#, .NET and Oracle PL/SQL, and writing tools and services in Go.
+Software developer working with .NET (4.8 and 8) and Go, and Oracle DBA handling database administration, query tuning and PL/SQL packages. I also maintain Linux servers (CentOS and Ubuntu) and manage Oracle Cloud Infrastructure services, from provisioning instances and DB Systems to automation with S3. Highly proficient with Hermes Agent and Claude for AI-assisted development.
 
 ### Languages and Tools
 
 <table>
   <tr>
-    <td><b>Languages / Frameworks</b></td>
+    <th align="left">Languages / Frameworks</th>
     <td><img src="https://api.iconify.design/devicon-plain/dotnetcore.svg?color=%238B5CF6&height=64" height="64"
         alt=".NET" title=".NET" /> &nbsp; <img
         src="https://api.iconify.design/simple-icons/go.svg?color=%238B5CF6&height=64" height="64" alt="Go"
@@ -24,7 +24,7 @@ I'm a software developer at CEBI, building tax and public-sector systems with C#
         alt="PowerShell" title="PowerShell" /></td>
   </tr>
   <tr>
-    <td><b>Databases (DBA)</b></td>
+    <th align="left">Databases (DBA)</th>
     <td><img src="https://api.iconify.design/simple-icons/oracle.svg?color=%238B5CF6&height=64" height="64" alt="Oracle"
         title="Oracle" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/mysql.svg?color=%238B5CF6&height=64"
         height="64" alt="MySQL" title="MySQL" /> &nbsp; <img
@@ -32,18 +32,25 @@ I'm a software developer at CEBI, building tax and public-sector systems with C#
         alt="PostgreSQL" title="PostgreSQL" /></td>
   </tr>
   <tr>
-    <td><b>OS</b></td>
+    <th align="left">OS</th>
     <td><img src="https://api.iconify.design/devicon-plain/nixos.svg?color=%238B5CF6&height=64" height="64" alt="NixOS"
-        title="NixOS" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/linux.svg?color=%238B5CF6&height=64"
-        height="64" alt="Linux" title="Linux" /> &nbsp; <img
+        title="NixOS" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/centos.svg?color=%238B5CF6&height=64" height="64"
+        alt="CentOS" title="CentOS" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/ubuntu.svg?color=%238B5CF6&height=64" height="64"
+        alt="Ubuntu" title="Ubuntu" /> &nbsp; <img
         src="https://api.iconify.design/simple-icons/windows.svg?color=%238B5CF6&height=64" height="64" alt="Windows"
         title="Windows" /></td>
   </tr>
   <tr>
-    <td><b>Development Tools</b></td>
+    <th align="left">Development Tools</th>
     <td><img src="https://api.iconify.design/devicon-plain/visualstudio.svg?color=%238B5CF6&height=64" height="64"
         alt="Visual Studio" title="Visual Studio" /> &nbsp; <img
         src="https://api.iconify.design/devicon-plain/vscodium.svg?color=%238B5CF6&height=64" height="64" alt="VSCodium"
         title="VSCodium" /></td>
+  </tr>
+  <tr>
+    <th align="left">AI Agents</th>
+    <td><img src="https://api.iconify.design/thesvg/nousresearch-hermes.svg?color=%238B5CF6&height=64" height="64"
+        alt="Hermes Agent" title="Hermes Agent" /> &nbsp; <img src="https://api.iconify.design/simple-icons/claude.svg?color=%238B5CF6&height=64" height="64"
+        alt="Claude" title="Claude" /></td>
   </tr>
 </table>
