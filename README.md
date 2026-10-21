@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4C1D95,50:7C3AED,100:A78BFA&section=header&reversal=false&text=Guilherme%20Arnaldo&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software%20Developer%20%7C%20.NET%20%7C%20Go%20%7C%20Oracle%20DBA&descSize=16&descAlign=50&descAlignY=65" width="100%" />
 
   <p>
-    <a href="https://github.com/guiarnaldo">
-      <img src="https://img.shields.io/badge/GitHub-guiarnaldo-7C3AED?style=flat-square&logo=github" alt="GitHub" />
-    </a>
+    <img src="https://img.shields.io/badge/GitHub-guiarnaldo-7C3AED?style=flat-square&logo=github" alt="GitHub" />
     <img src="https://img.shields.io/badge/Status-Active-8B5CF6?style=flat-square" alt="Status Active" />
   </p>
 </div>
