@@ -11,9 +11,37 @@ I'm a software developer at CEBI, building tax and public-sector systems with C#
 
 ### Languages and Tools
 
-| | |
-|:--|:--|
-| **Languages / Frameworks** | <img src="https://api.iconify.design/devicon-plain/dotnetcore.svg?color=%238B5CF6&height=48" height="48" alt=".NET" title=".NET" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/go.svg?color=%238B5CF6&height=48" height="48" alt="Go" title="Go" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/powershell.svg?color=%238B5CF6&height=48" height="48" alt="PowerShell" title="PowerShell" /> |
-| **Databases (DBA)** | <img src="https://api.iconify.design/simple-icons/oracle.svg?color=%238B5CF6&height=48" height="48" alt="Oracle" title="Oracle" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/mysql.svg?color=%238B5CF6&height=48" height="48" alt="MySQL" title="MySQL" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/postgresql.svg?color=%238B5CF6&height=48" height="48" alt="PostgreSQL" title="PostgreSQL" /> |
-| **OS** | <img src="https://api.iconify.design/devicon-plain/nixos.svg?color=%238B5CF6&height=48" height="48" alt="NixOS" title="NixOS" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/linux.svg?color=%238B5CF6&height=48" height="48" alt="Linux" title="Linux" /> &nbsp; <img src="https://api.iconify.design/simple-icons/windows.svg?color=%238B5CF6&height=48" height="48" alt="Windows" title="Windows" /> |
-| **Development Tools** | <img src="https://api.iconify.design/devicon-plain/visualstudio.svg?color=%238B5CF6&height=48" height="48" alt="Visual Studio" title="Visual Studio" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/vscodium.svg?color=%238B5CF6&height=48" height="48" alt="VSCodium" title="VSCodium" /> |
+<table>
+  <tr>
+    <td><b>Languages / Frameworks</b></td>
+    <td><img src="https://api.iconify.design/devicon-plain/dotnetcore.svg?color=%238B5CF6&height=64" height="64"
+        alt=".NET" title=".NET" /> &nbsp; <img
+        src="https://api.iconify.design/devicon-plain/go.svg?color=%238B5CF6&height=64" height="64" alt="Go"
+        title="Go" /> &nbsp; <img
+        src="https://api.iconify.design/devicon-plain/powershell.svg?color=%238B5CF6&height=64" height="64"
+        alt="PowerShell" title="PowerShell" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases (DBA)</b></td>
+    <td><img src="https://api.iconify.design/simple-icons/oracle.svg?color=%238B5CF6&height=64" height="64" alt="Oracle"
+        title="Oracle" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/mysql.svg?color=%238B5CF6&height=64"
+        height="64" alt="MySQL" title="MySQL" /> &nbsp; <img
+        src="https://api.iconify.design/devicon-plain/postgresql.svg?color=%238B5CF6&height=64" height="64"
+        alt="PostgreSQL" title="PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <td><b>OS</b></td>
+    <td><img src="https://api.iconify.design/devicon-plain/nixos.svg?color=%238B5CF6&height=64" height="64" alt="NixOS"
+        title="NixOS" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/linux.svg?color=%238B5CF6&height=64"
+        height="64" alt="Linux" title="Linux" /> &nbsp; <img
+        src="https://api.iconify.design/simple-icons/windows.svg?color=%238B5CF6&height=64" height="64" alt="Windows"
+        title="Windows" /></td>
+  </tr>
+  <tr>
+    <td><b>Development Tools</b></td>
+    <td><img src="https://api.iconify.design/devicon-plain/visualstudio.svg?color=%238B5CF6&height=64" height="64"
+        alt="Visual Studio" title="Visual Studio" /> &nbsp; <img
+        src="https://api.iconify.design/devicon-plain/vscodium.svg?color=%238B5CF6&height=64" height="64" alt="VSCodium"
+        title="VSCodium" /></td>
+  </tr>
+</table>
