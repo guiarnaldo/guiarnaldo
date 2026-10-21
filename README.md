@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4C1D95,50:7C3AED,100:A78BFA&section=header&reversal=false&text=Guilherme%20Arnaldo&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software%20Developer%20%7C%20.NET%20%7C%20Go%20%7C%20Oracle%20DBA&descSize=16&descAlign=50&descAlignY=65" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4C1D95,50:7C3AED,100:A78BFA&section=header&reversal=false&text=Guilherme%20Arnaldo&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software%20Developer%20%7C%20.NET%20%7C%20Go%20%7C%20Oracle%20DBA&descSize=16&descAlign=50&descAlignY=65"
+    width="100%" />
 
   <p>
     <img src="https://img.shields.io/badge/GitHub-guiarnaldo-7C3AED?style=flat-square&logo=github" alt="GitHub" />
@@ -16,7 +18,7 @@ I'm a software developer at CEBI, building tax and public-sector systems with C#
     <td><b>Languages / Frameworks</b></td>
     <td><img src="https://api.iconify.design/devicon-plain/dotnetcore.svg?color=%238B5CF6&height=64" height="64"
         alt=".NET" title=".NET" /> &nbsp; <img
-        src="https://api.iconify.design/devicon-plain/go.svg?color=%238B5CF6&height=64" height="64" alt="Go"
+        src="https://api.iconify.design/simple-icons/go.svg?color=%238B5CF6&height=64" height="64" alt="Go"
         title="Go" /> &nbsp; <img
         src="https://api.iconify.design/devicon-plain/powershell.svg?color=%238B5CF6&height=64" height="64"
         alt="PowerShell" title="PowerShell" /></td>
