@@ -9,7 +9,7 @@
   </p>
 </div>
 
-Software developer working with .NET (4.8 and 8) and Go, and Oracle DBA handling database administration, query tuning and PL/SQL packages. I also maintain Linux servers (CentOS and Ubuntu) and manage Oracle Cloud Infrastructure services, from provisioning instances and DB Systems to automation with S3. Highly proficient with Hermes Agent and Claude for AI-assisted development.
+Software developer working with .NET (Framework and Core) and Go, and Oracle DBA handling database administration, query tuning and PL/SQL packages. I also maintain Linux servers (CentOS and Ubuntu) and manage Oracle Cloud Infrastructure services, from provisioning instances and DB Systems to automation with S3. Highly proficient with Hermes Agent and Claude for AI-assisted development.
 
 ### Languages and Tools
 
