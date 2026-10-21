@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4C1D95,50:7C3AED,100:A78BFA&section=header&reversal=false&text=Guilherme%20Arnaldo&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software%20Developer%20%7C%20.NET%20%7C%20Go%20%7C%20Oracle%20DBA&descSize=16&descAlign=50&descAlignY=65" width="100%" />
 
-<!--
-**guiarnaldo/guiarnaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <a href="https://github.com/guiarnaldo">
+      <img src="https://img.shields.io/badge/GitHub-guiarnaldo-7C3AED?style=flat-square&logo=github" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Active-8B5CF6?style=flat-square" alt="Status Active" />
+  </p>
+</div>
 
-Here are some ideas to get you started:
+I'm a software developer at CEBI, building tax and public-sector systems with C#, .NET and Oracle PL/SQL, and writing tools and services in Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+| | |
+|:--|:--|
+| **Languages / Frameworks** | <img src="https://api.iconify.design/devicon-plain/dotnetcore.svg?color=%238B5CF6&height=48" height="48" alt=".NET" title=".NET" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/go.svg?color=%238B5CF6&height=48" height="48" alt="Go" title="Go" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/powershell.svg?color=%238B5CF6&height=48" height="48" alt="PowerShell" title="PowerShell" /> |
+| **Databases (DBA)** | <img src="https://api.iconify.design/simple-icons/oracle.svg?color=%238B5CF6&height=48" height="48" alt="Oracle" title="Oracle" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/mysql.svg?color=%238B5CF6&height=48" height="48" alt="MySQL" title="MySQL" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/postgresql.svg?color=%238B5CF6&height=48" height="48" alt="PostgreSQL" title="PostgreSQL" /> |
+| **OS** | <img src="https://api.iconify.design/devicon-plain/nixos.svg?color=%238B5CF6&height=48" height="48" alt="NixOS" title="NixOS" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/linux.svg?color=%238B5CF6&height=48" height="48" alt="Linux" title="Linux" /> &nbsp; <img src="https://api.iconify.design/simple-icons/windows.svg?color=%238B5CF6&height=48" height="48" alt="Windows" title="Windows" /> |
+| **Development Tools** | <img src="https://api.iconify.design/devicon-plain/visualstudio.svg?color=%238B5CF6&height=48" height="48" alt="Visual Studio" title="Visual Studio" /> &nbsp; <img src="https://api.iconify.design/devicon-plain/vscodium.svg?color=%238B5CF6&height=48" height="48" alt="VSCodium" title="VSCodium" /> |
